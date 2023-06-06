@@ -52,7 +52,7 @@ class Home extends StatelessWidget {
                       ),
                     ],
                   ),
-                  child:  
+                child:  
                 Center(
                   // vectorJRC (1:65)
                   child:  
